@@ -9,6 +9,6 @@ cor(x, y, method = "pearson")
 # Es una correlación no paramétrica.
 cor(x, y, method = "spearman")
 
-# Correlación de Kendall: Datos no parámetricos.
+# Correlación de Kendall: Datos no paramétricos.
 # Para los datos ordinales y pocos datos
 cor(x, y, method = "kendall")
