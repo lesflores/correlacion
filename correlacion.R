@@ -4,7 +4,8 @@
 
 # Correlación de Pearson: 
 # Para variables continuas. 
-# Se asume que las variables tienen una distribución normal.
+# Se asume que las variables tienen una 
+# distribución normal.
 cor(x, y, method = "pearson")
 
 # Correlación de Spearman: 
