@@ -1,5 +1,6 @@
 # Tipos de correlación
-# Dependiendo del tipo de datos y la relación entre las variables.
+# Dependiendo del tipo de datos 
+# y la relación entre las variables.
 
 # Correlación de Pearson: 
 # Para variables continuas. 
